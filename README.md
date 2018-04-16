@@ -1,11 +1,11 @@
-# slua-503-build
-The build project for slua plugins with lua5.3.
+# slua-luajit2.1-build
+The build project for tolua plugins with luajit2.1.
 
 ##简介
-为了方便使用 Lua5.3 的开发者编译适用于 SLua 的 Unity 插件。
+为了方便使用 Luajit2.1 的开发者编译适用于 tolua 的 Unity 插件。
 
 ##包含内容：
-Lua 5.3.1
+Luajit2.1
 
 Lpeg
 
